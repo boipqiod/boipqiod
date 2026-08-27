@@ -1,14 +1,13 @@
-# Sanghun Kong
+# Hi, I’m Simon.
 
 Mobile and full-stack software engineer based in Brisbane, Australia.
 
-I build mobile apps with React Native and Expo, and web and backend services with React and Spring Boot.
+I mostly work with React Native and Expo, alongside React and Spring Boot.
 
-## Project
+## App
 
-- [Ulty - Duty Calendar](https://apps.apple.com/us/app/ulty-duty-calendar/id6756371021)  
-  An iPhone shift calendar with fast schedule entry, custom work templates, offline storage, and home-screen widgets.
+- [Ulty - Duty Calendar](https://apps.apple.com/us/app/ulty-duty-calendar/id6756371021)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/sanghun-kong-9089472b1/) � [Email](mailto:boipqiod@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanghun-kong-9089472b1/) · [Email](mailto:boipqiod@gmail.com)
